@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'MuseoModerno';
+    src: url('../../../fonts/MuseoModerno-VariableFont_wght.ttf');
+}
+
+.Toolbar {
+    background-color: #00A7A1;
+    display: flex;
+    justify-content: center;
+}
+
+.LernenLogo {
+    font-family: 'MuseoModerno';
+    font-weight: 900;
+    color: white;
+    font-size: 2.5rem;
+    text-shadow: 2px 5px 3px #646464;
+    padding: 0;
+    margin: 0;
+    margin-left: auto;
+}
